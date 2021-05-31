@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reddit_app/static/js/main.36ffc6a7.chunk.js",
+    "main.js.map": "/reddit_app/static/js/main.36ffc6a7.chunk.js.map",
+    "runtime-main.js": "/reddit_app/static/js/runtime-main.a3134259.js",
+    "runtime-main.js.map": "/reddit_app/static/js/runtime-main.a3134259.js.map",
+    "static/js/2.5c5afefb.chunk.js": "/reddit_app/static/js/2.5c5afefb.chunk.js",
+    "static/js/2.5c5afefb.chunk.js.map": "/reddit_app/static/js/2.5c5afefb.chunk.js.map",
+    "index.html": "/reddit_app/index.html",
+    "static/js/2.5c5afefb.chunk.js.LICENSE.txt": "/reddit_app/static/js/2.5c5afefb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3134259.js",
+    "static/js/2.5c5afefb.chunk.js",
+    "static/js/main.36ffc6a7.chunk.js"
+  ]
+}
